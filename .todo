@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<todo version="0.1.20">
+    <note priority="medium" time="1604625073">
+        implémenter le modale de verification
+    </note>
+    <note priority="medium" time="1604625623">
+        reoganiser le code en utilisan des state full widget
+    </note>
+</todo>
